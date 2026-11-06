@@ -16,3 +16,6 @@ apps/*/data/
 # Ad-hoc verification scratch, dated by run. Superseded by the durable records
 # in each package's tests/plans and tests/reports, which stay tracked.
 /test/
+
+# Mac OS
+.DS_Store
